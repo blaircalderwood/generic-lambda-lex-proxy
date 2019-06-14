@@ -1,0 +1,25 @@
+{
+  "name": "lambda-lex-proxy",
+  "version": "1.0.0",
+  "description": "A generic proxy to connect API Gateway to any Lex provided in environment variables.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [
+    "lambda",
+    "lex",
+    "api",
+    "gateway",
+    "api",
+    "proxy",
+    "generic",
+    "web",
+    "app"
+  ],
+  "author": "Blair Calderwood",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.472.0"
+  }
+}
